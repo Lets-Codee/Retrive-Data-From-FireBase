@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927507164414",
+    "project_id": "retrive-realtime-data-bb729",
+    "storage_bucket": "retrive-realtime-data-bb729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927507164414:android:1085970f053cb4b09dc9af",
+        "android_client_info": {
+          "package_name": "com.letscodee.retriverealtimedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927507164414-1cu5fqdh3iesr4pv0eph970h8vupl3t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-RcvPYLXHghJ4NjAoi57ee00AOiVYM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927507164414-1cu5fqdh3iesr4pv0eph970h8vupl3t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
